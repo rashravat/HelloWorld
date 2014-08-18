@@ -1,7 +1,7 @@
 <%@ taglib uri="/WEB-INF/tld/c-rt.tld" prefix="c" %>
 <html>
 	<header>
-		<title>Hello World</title>
+		<title>Hello World eddited</title>
 	</header>
 	<body>
 			
