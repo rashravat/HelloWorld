@@ -1,0 +1,13 @@
+<jboss-web>
+
+	<resource-ref>
+		<res-ref-name>jms/JmsXA</res-ref-name>
+		<jndi-name>java:/JmsXA</jndi-name>
+	</resource-ref>
+	
+	<resource-ref>
+		<res-ref-name>jms/helloWorldMessage</res-ref-name>
+		<jndi-name>queue/helloWorldMessage</jndi-name>
+	</resource-ref>
+
+</jboss-web>

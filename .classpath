@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/java/jboss-4.0.5.GA/server/all/lib/javax.servlet.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/HelloWorldEJB"/>
+	<classpathentry kind="lib" path="C:/java/jboss-4.0.5.GA/client/jboss-ejb3x.jar"/>
+	<classpathentry kind="lib" path="C:/java/jboss-4.0.5.GA/client/jboss-ejb3-client.jar"/>
+	<classpathentry kind="lib" path="C:/java/jboss-4.0.5.GA/client/jboss-j2ee.jar"/>
+	<classpathentry kind="lib" path="C:/java/jboss-4.0.5.GA/server/all/lib/log4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
